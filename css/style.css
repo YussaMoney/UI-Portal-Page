@@ -1,0 +1,97 @@
+header{
+    background: rgba(130, 198, 220, 0.85);
+    margin: 10px;
+    height: 65px;
+    margin-bottom: 30px;
+}
+figure img{
+    height: 60px;
+    float: left;
+    margin-right: 20px;
+}
+body{
+    background-color: white;
+}
+nav p{
+    float: right;
+    margin-top: -2px;
+}
+nav h2{
+    color: whitesmoke;
+    font-size: 40px;
+}
+a{
+    color: rgba(228, 179, 115, .7);
+    font-weight: bolder;
+}
+a:focus, a:hover{
+    color: red;
+}
+section p span{
+    font-size: 36px;
+}
+article li{
+    font-weight: bolder;
+}
+article ul p{
+    margin-top: -4px;
+}
+article p+p{
+    line-height: 2px;
+}
+section{
+    margin: 20px;   
+}
+.accent-color{
+    background-color: rgba(67, 66, 77, 0.215);
+    margin-bottom: -14px;
+    font-size: 18px;
+    width: 300px;
+}
+.dull-color{
+    background-color: rgba(67, 66, 77, 0.65);
+    width: 300px;
+    height: 190px;
+}
+.red-color{
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    margin-bottom: -7px;
+}
+footer{
+    clear: both;
+}
+main{
+    border: 2px black solid;
+    font-size: 14px;
+}
+footer p+p{
+    float: right;
+    margin-top: -30px;
+}
+section aside{
+    float: right;
+    margin-top: -270px;
+    margin-right: 100px;
+}
+article{
+    width: 900px;
+}
+.colored{
+    color: red;
+}
+.center{
+    text-align: center;
+}
+.below{
+    margin-top: 50px;
+}
+button{
+    margin-left: 190px;
+}
+.margin{
+    margin-left: 5px;
+}
+
+
+
