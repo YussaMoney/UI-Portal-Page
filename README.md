@@ -1,6 +1,6 @@
 # UI Portal Page
 
-This is a simple HTML with little styling(CSS) of a Youtube homepage write in the format of HTML5
+This is a simple HTML with little styling(CSS) of a sample homepage write in the format of HTML5
 
 ## Built With
 
